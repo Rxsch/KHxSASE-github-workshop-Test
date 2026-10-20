@@ -5,6 +5,7 @@ The goal of this activity is to let everyone apply what they've learned during t
 
 Working in groups is ideal to get familiar with working with people, but it's okay to do this solo as well
 
+Lets get started now! 
 
 ## Activity Outline
 Coding is NOT a requirement for this activity, so no worries if you don't know how to
@@ -13,7 +14,7 @@ Just fork this repository (add all members to the fork if in a group) and commit
 
 Once there have been some commits to the fork, submit a pull request to this repository, and we'll showcase how merging pull requests is done
 
-Try to stick to the [Conventional Commits](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13) guidelines for both commit messages and pull request descriptions
+Try" to stick to the [Conventional Commits](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13) guidelines for both commit messages and pull request descriptions
 
 For those interested in working with Git on the command line, please install Git on your computer if you have not already
 
