@@ -6,6 +6,8 @@ The secret word is chosen from a separate file, words.txt
 Any five letters are accepted as a guess, whether or not they appear in that list.
 """
 
+
+
 import os
 import random
 import sys
@@ -135,9 +137,9 @@ def main():
     words = load_words()
     while True:
         play(words)
-        again = input("\nPlay again? (y/n): ").strip().lower()
+        again = input("\nDo you want to play again? (y/n): ").strip().lower()
         if again not in ("y", "yes"):
-            print("Thanks for playing!")
+            print("Thank you for playing!")
             break
 
 
@@ -145,4 +147,4 @@ if __name__ == "__main__":
     try:
         main()
     except (KeyboardInterrupt, EOFError):
-        print("\nGoodbye!")
+        print("\nGoodbye!!!")
